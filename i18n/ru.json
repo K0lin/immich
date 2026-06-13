@@ -2390,7 +2390,7 @@
   "trashed_items_will_be_permanently_deleted_after": "Объекты, хранящиеся в корзине более {days, plural, one {# дня} other {# дней}}, удаляются автоматически.",
   "trigger": "Триггер",
   "trigger_asset_metadata_extraction": "Извлечение метаданных объекта",
-  "trigger_asset_metadata_extraction_description": "Срабатывает при извлечении EXIF-данных объекта",
+  "trigger_asset_metadata_extraction_description": "Срабатывает при извлечении EXIF метаданных объекта",
   "trigger_asset_uploaded": "Загрузка объекта",
   "trigger_asset_uploaded_description": "Срабатывает при загрузке нового объекта",
   "trigger_description": "Событие, которое запускает сценарий",
